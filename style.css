@@ -9,7 +9,7 @@ h1 {
 }
 
 p {
-    color: #685206;
+    color: aqua;
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 14px;
     line-height: 24px;
@@ -28,6 +28,12 @@ ul, ol {
     margin: 20px;
     padding: 0;
 }
+
+.middle {
+    color: aqua;
+}
+
+
 
 li {
     font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
@@ -82,3 +88,4 @@ img {
     0% {opacity:0;}
     100% {opacity:1;}
 }
+
